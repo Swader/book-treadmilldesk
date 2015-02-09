@@ -4,9 +4,9 @@ Thanks for buying my book! The manuscript you see before you was written to help
 
 ## Why
 
-Some time in 2010 I got my first enterprise programming job. I was always on the flabby side, but never obese, and your early twenties are a time during which you can do anything sadistic to your body and it'll still yell back "THANK YOU SIR, MAY I HAVE ANOTHER?" - it's a time of nigh invulnerability in one's life. That's why we feel it so much when the invulnerability wears off.
+In early 2010 I got my first enterprise programming job. I was always on the flabby side, but never obese, and your early twenties are a time during which you can do anything sadistic to your body and it'll still yell back "THANK YOU SIR, MAY I HAVE ANOTHER?" - it's a time of nigh invulnerability in one's life. That's why we feel it so much when the invulnerability wears off.
 
-As you grow older, your metabolism slows down. You can no longer digest the same junk with the same efficiency, and you need to be more active to achieve the same results you used to take for granted before. Putting all this together, my body was in for a shock in this sudden transition to sedentary cubicled office work.
+As you grow older, your metabolism slows down. You can no longer digest the same junk with the same efficiency, and you need to be more active to achieve the same results you used to take for granted. Putting all this together, my body was in for a shock in this sudden transition to sedentary cubicled office work.
 
 In the year or so that followed, I went from 75kg to almost 100kg. (Note that I'll be using the metric system simply because [it makes sense](http://i.imgur.com/R5CYFSD.png)). That's an incredibly unhealthy gain. Then, in the summer of 2012 I was given the chance to work from home on a large project for the company, arguing I needed a distraction free environment. Quite by accident, I found a cheap used treadmill in an ad online and figured I might use it to jog, having been living in a very pedestrian-unfriendly city at the time. It was an old Energetics Power Run 5.9.
 
@@ -45,6 +45,6 @@ If:
 
 this book is for you.
 
-I guarantee that if you follow the advice in this book exactly as told, you'll not only start hurting, but you'll actually start looking and feeling better. No diets, no hunger, no removing of anything from the kitchen. If you keep eating the *exact* same things you ate so far and merely apply everything I write about in this book, you will lose weight (or at least stop gaining, if you're currently eating obscene amounts) - and that's a promise.
+I guarantee that if you follow the advice in this book exactly as told, you'll not only stop hurting, but you'll actually start looking and feeling better. No diets, no hunger, no removing of anything from the kitchen. If you keep eating the *exact* same things you ate so far and merely apply everything I write about in this book, you will lose weight (or at least stop gaining, if you're currently eating obscene amounts) - and that's a promise.
 
 Without further ado, let's dive in, shall we?
