@@ -47,4 +47,16 @@ this book is for you.
 
 I guarantee that if you follow the advice in this book exactly as told, you'll not only stop hurting, but you'll actually start looking and feeling better. No diets, no hunger, no removing of anything from the kitchen. If you keep eating the *exact* same things you ate so far and merely apply everything I write about in this book, you will lose weight (or at least stop gaining, if you're currently eating obscene amounts) - and that's a promise.
 
-Without further ado, let's dive in, shall we?
+## The Social Stigma of Treadmill Desks
+
+One of the biggest speedbumps on your way back to a (treadmill powered) healthy life could very well be the *awkwardness* that comes with a treadmill desk. In environments where you're subject to other people's gazes, or environments that aren't completely private, you're bound to attract the attention of those around you unless the others are in a similar situation.
+
+Regardless of treadmill desks slowly creeping into the mainstream (you may have seen some silly articles online about [Victoria Beckham](http://www.dailymail.co.uk/tvshowbiz/article-2579728/Victoria-Beckham-tries-treadmill-built-desk-wearing-pair-towering-heels.html) using one - I mean, in high heels? Come on. You'd be in a wheelchair in two weeks), there are still some deterring factors:
+
+- treadmill engines can be noisy. Your footsteps, too. This can be annoying to your cohabitants or coworkers if they're not properly prepared.
+- depending on the speed and incline (more on that later) and your stamina, you'll probably sweat (and depending on your health levels and genetics, you might smell). Prepping a good environment to prevent that from happening or nullifying the effects of these workout symptoms via different means is of utmost importance when working alongside people in either civilian or business environments.
+- you'll look weird. There's no denying it, treadmill desks look weird and without a doubt every person seeing you on one for the first time will ask you "Wow - but you can't actually work on that, can you? How can you type?", etc.
+
+We'll work on these stigmata in the chapters that follow. We'll go through some awkward topics and try to realize that everyone is aware of them - there's no shame in sweating due to being active, for example. We'll nullify what downsides we can, justify what can't be nullified, and we'll build ourselves a walk-working environment that's pleasant to both you and everyone around you.
+
+Note that in this book, I'm talking exclusively about electric treadmills. While magnetic ones (self-propelled, those on which you use your legs to push the ground beneath you, rather than relying on a motor dragging the ground away from you) are much cheaper, last longer, and are very practical to store (they're generally smaller than electric ones), they are not suitable for the uses I present in this book.
