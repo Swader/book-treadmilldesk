@@ -16,7 +16,7 @@ When walking, a vast array of muscles work together to keep balance, maintain po
 
 The quadriceps (or *quads*) are the body's biggest muscles (no matter how much you pump any other muscle group, if you do it right, the quads are always bigger). They're at the front of the thigh, and are used to push the thigh and leg forward. Consider for a moment the relative size of your leg when compared to your body. This one muscle is responsible for moving that whole mass, several hundred times per day. The hamstrings are the "opposite" - they're at the back of the thigh and move the leg backwards and don't just serve to walk backwards - they're needed to slow the leg down on a step's finish.
 
-![Quads image](images/02/quads.jpg)
+![Hamstrings image](images/02/quads.jpg)
 
 Then there's the gluteal muscles (or *glutes*), or the *butt muscles*. They're in charge of finalizing and initializing a single step - either forward or backward. A step begins and ends with the glutes. When your butt is "saggy", it means the glutes aren't being used enough. The glutes work extra hard when dealing with height - the bigger the sea-level height difference between steps, the more you'll stress your glutes.
 
@@ -76,8 +76,8 @@ Now, there are diet alterations one can apply to prevent or fix this - a high fi
 
 When we strain on the toilet, we don't only do so because of a very hard stool, we do it because the bowels are *really long* and we need to contract a bunch of muscles to drive the stool out through all those bends. You see, we didn't evolve to sit on toilets, we evolved to squat in the fields. While evolution may catch up eventually, and some nations (e.g. Japan) favor squatting toilets, the majority of the world still prefers sitting. When we sit, a muscle known as the *puborectalis muscle*, which is around the rectum, chokes the "pipe" and restricts the smooth flow of the stool. When we squat, this muscle is relaxed and the stool can pass through easily. 
 
-![The puborectalis muscle](images/02/puborectalis.jpg)
-*Image credit: https://www.studyblue.com*
+![The puborectalis muscle - image credit: https://www.studyblue.com](images/02/puborectalis.jpg)
+
 
 When sitting, the stool cannot enter the choked rectum easily, and we strain. Straining causes hemorrhoids. If we used a squatting toilet, things would be better, but most don't have them or don't want to give them a go, having gotten used to our porcelain thrones. 
 
@@ -93,7 +93,7 @@ You've probably heard of standing desks being the hot new thing, given that you'
 
 "Wait, what? Isn't standing better than sitting by default?" you may be wondering. Nope. Here's why.
 
-The same upper body muscle groups that work when we walk also work to keep us upright and balanced when standing. The real difference is in the lower body, and this difference is so significant it impact the upper body, potentially causing long term harm.
+The same upper body muscle groups that work when we walk also work to keep us upright and balanced when standing. The real difference is in the lower body, and this difference is so significant it impacts the upper body, potentially causing long term harm.
 
 When standing, glutes prevent your hips from swaying side to side, and the tensor fascia lata muscle, which is on the side of the leg from the pelvis to the knee, assists with this. Adding to that, the lower leg muscles are constantly engaged simply to keep you upright - if they relaxed, you'd be face down in the carpet. So, what's the problem with that? Working muscles are healthy muscles, no? Balance, padawan! Balance is what's important!
 
@@ -103,21 +103,18 @@ Have you ever noticed how when you stand in long queues or are at a concert or a
 
 Your entire body was leaning on one side, likely unnoticed by you, and it gave the signal "Okay, that's enough, make the other leg bear the weight now". This imbalance creates a sort of never-ending loop where your legs will keep passing the weight to one another until you can't take it any more and have to sit down. Throughout these balance shifts, it's not even the legs and feet that suffer the most - it's the back. As your legs try to shift the blame back and forth, the back keeps the weight balanced. But the back tires because it keeps doing the exact same moves all the time. Soon, it weakens. It can no longer hold you perfectly upright and your spine bends, your entire upper body now held in place with bone only and a bit of tissue around it - the muscles are in a resting state. You get to one of these three:
 
-![Wrong standing posture](images/02/standingwrong.png)
-*Image credit dailymail.co.uk*
+![Wrong standing posture - image credit dailymail.co.uk](images/02/standingwrong.png)
+
 
 Now imagine if you had a shelf to lean against at all times - like, say, a standing desk? You'd instantly go for this position, subconsciously, because your body knows it's easier that way, at least temporarily (and your body is **all** about instant gratification and no long term consequences - how else would we explain the sex drive?). This problem is further exacerbated when one has flat feet.
 
-![Flat feet](images/02/ff.jpg )
-*Image credit www.nextsteportho.net*
+![Flat feet - image credit www.nextsteportho.net](images/02/ff.jpg )
 
 Feet are configured so that the outer rim bears most of the weight. This keeps legs nice and straight. When we have flat feet, the weight falls on the medial arch, the mid part which isn't really touching the floor a whole lot with healthy feet. This is bad because it twists your ankles inwards and leads to X legs. Now imagine standing for hours with your legs bending inwards like this - can you imagine the stress this puts on your knees?
 
 Sadly, many people treat standing desks as a holy grail, *the* way to be healthy behind a computer, and yet very few take these extreme health risks into consideration. Prolonged exposure to these negative effects might seem like "training pains" to most, but is in fact very dangerous and can lead to serious injury in the long term - the knees, back, neck, hips, shoulders and feet will all suffer. Humans never stood in one place for a long time. For thousands of years, we were nomads - constantly on the move, and even when we settled to farm, we never stood still. We either rested or worked. We simply aren't equipped for long periods of standing.
 
-Last but not least, we have to mention the calories. This book will be using the metric system, because unlike others, it makes sense.
-
-![Go home, USA, you're drunk](images/02/stupidus.jpg)
+Last but not least, we have to mention the calories. 
 
 > *Big calories*, or *kcal*, are the unit of measurement used on food labels. One *kcal* is one *kilo calorie* or 1000 small calories. One small calorie is the amount of energy needed to heat up one gram of water up one degree Celsius (1ºC), while one kcal is the amount of energy required to increase the heat of one *kilogram* of water by 1ºC.
 
@@ -135,7 +132,7 @@ It should be noted that while I consulted medical professionals while writing th
 
 Keep in mind that if you're overweight by a lot, you should take it easy and not overdo it as you start out. Your legs are not used to the added stress and your back muscles will suffer, too. Start with one hour per day at most, and keep at it for a week or two. Only then should you start adding 20-30 minutes weekly - give your body the time to adapt.
 
-When starting out, you'll often experience thigh burn - that's when your thighs rub against one another while walking. This is normal, it's just friction and basic physics, but coupled with salt from sweat, it can be pretty unpleasant. To avoid this, rub the area with stick deodorant - during my obese periods when this was still a big problem, I've found that creamy ones, like Dove, work best. That should last your for the entire session.
+When starting out, you'll often experience thigh burn - that's when your thighs rub against one another while walking. This is normal, it's just friction and basic physics, but coupled with salt from sweat, it can be pretty unpleasant. To avoid this, rub the area with stick deodorant - during my obese periods when this was still a big problem, I've found that creamy ones, like Dove, work best. That should last you for the entire session.
 
 If at any point you start experiencing severe (mild is okay - severe is not) joint, neck or back pain, stop and rest, and skip the following day. Your body is probably in shock and needs time to recuperate.
 
@@ -143,7 +140,7 @@ We'll talk more about proper posture, good equipment and wearables, and the righ
 
 ## Summary
 
-- walking activates many, many more muscles than sitting or standing, and spends up to six times more calories, and helps absorb far
+- walking activates many, many more muscles than sitting or standing, and spends up to six times more calories, and helps absorb fat
 - a wrong posture can only be worsened by standing
 - sitting causes anterior pelvic tilt, but stretching exercises exist that make it go away
 - walking improves the digestive tract's function and solves a plethora of awkward problems like hemorrhoids and constipation
